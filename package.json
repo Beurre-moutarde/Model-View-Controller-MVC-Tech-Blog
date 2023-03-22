@@ -20,6 +20,7 @@
   "homepage": "https://github.com/Beurre-moutarde/Model-View-Controller-MVC-Tech-Blog#readme",
   "dependencies": {
     "bcrypt": "^5.1.0",
+    "controllers": "^0.0.2",
     "express": "^4.18.2",
     "express-handlebars": "^7.0.2",
     "express-session": "^1.17.3",
