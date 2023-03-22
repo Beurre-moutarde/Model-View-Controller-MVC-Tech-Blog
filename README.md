@@ -26,6 +26,8 @@ To get started with The tech Blog, follow these steps:
 
 <img width="1200" alt="Screenshot 2023-03-22 at 3 01 49 pm" src="https://user-images.githubusercontent.com/116129687/226928828-38092dde-581a-4d16-a460-7b83d6989a6b.png">
 
+https://how-tech-is-reshaping-the-futu.herokuapp.com/
+
 
 ## License
 
